@@ -1,6 +1,5 @@
-import React from "react";
 import { Box, Stack } from "@mui/material";
-import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
+import ExpandMoreIcon from "@mui/icons-material/ExpandMore"
 
 const HeaderFilter = () => {
   return (
@@ -16,7 +15,7 @@ const HeaderFilter = () => {
             <ExpandMoreIcon />
           </Box>
           <Box className={"box"}>
-            <span>7 Rooms</span>
+            <span>7 rooms</span>
             <ExpandMoreIcon />
           </Box>
         </Stack>
