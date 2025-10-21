@@ -109,7 +109,7 @@ const Filter = () => {
           <Button
             sx={{
               borderRadius: 0,
-              border: "1px solid #b9b9b9"
+              border: "2px solid #1c1b1bff"
             }}
           >
             2
@@ -162,7 +162,7 @@ const Filter = () => {
           <Button
             sx={{
               borderRadius: 0,
-              border: "1px solid #b9b9b9"
+              border: "2px solid #1c1b1bff"
             }}
           >
             2
